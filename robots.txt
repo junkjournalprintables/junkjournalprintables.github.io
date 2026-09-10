@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nutsalayguseynova-spec.github.io/sitemap.xml
+Sitemap: https://junkjournalprintables.github.io/sitemap.xml
